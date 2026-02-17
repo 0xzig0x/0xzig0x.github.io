@@ -2,12 +2,12 @@
 layout: home
 author_profile: true
 header:
-  overlay_image: /assets/images/bio.jpg
-  overlay_filter: 0.6
-excerpt: "**Apasionado y estudiante de ciberseguridad**<br>Especializado en Red Team y Pentesting"
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.3
+  show_overlay_excerpt: false
 ---
 
-### Bienvenido
+## 0x0
 
 En esta web encontrarás documentación técnica y análisis detallados sobre seguridad ofensiva. Abordo temas como explotación en entornos **Active Directory**, **Linux**, **explotación web** y cómo una mala configuración o medidas de seguridad débiles pueden darle acceso total a un atacante sobre un sistema o dominio entero.
 
