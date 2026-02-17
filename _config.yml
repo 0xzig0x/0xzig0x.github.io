@@ -1,5 +1,19 @@
+# Tema remoto
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+# Plugins requeridos por Minimal Mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-sitemap
+
+# Configuración del skin
 minimal_mistakes_skin: "dark"
 
+# Autor
 author:
   name: "0xzig0x"
   avatar: "/assets/images/b.jpg"
@@ -16,9 +30,11 @@ author:
       icon: "fab fa-fw fa-discord"
       url: "https://discord.com/users/0xbin0x"
 
+# Archivos de categorías y tags
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+
