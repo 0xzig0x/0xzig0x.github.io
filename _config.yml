@@ -38,3 +38,8 @@ tag_archive:
   type: liquid
   path: /tags/
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
