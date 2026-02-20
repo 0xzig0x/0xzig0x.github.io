@@ -1,5 +1,5 @@
 # Tema remoto
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Plugins requeridos por Minimal Mistakes
 plugins:
@@ -9,7 +9,7 @@ plugins:
   - jekyll-paginate
   - jekyll-relative-links
   - jekyll-sitemap
-
+  - jekyll-include-cache
 # Configuración del skin
 minimal_mistakes_skin: "dark"
 
