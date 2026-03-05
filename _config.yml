@@ -26,9 +26,9 @@ author:
     - label: "0xzig0x@proton.me"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:0xzig0x@proton.me"
-    - label: "0xbin0x"
+    - label: "0xzig0x"
       icon: "fab fa-fw fa-discord"
-      url: "https://discord.com/users/0xbin0x"
+      url: "https://discord.com/users/0xzig0x"
 
 # Archivos de categorías y tags
 category_archive:
