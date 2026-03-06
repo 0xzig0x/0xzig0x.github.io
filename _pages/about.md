@@ -12,4 +12,4 @@ En este blog documento resoluciones de máquinas CTF donde abordo explotación w
 ## Contacto
 
 - **Email**: 0xzig0x@proton.me
-- **Discord**: 0xbin0x
+- **Discord**: 0xzig0x
